@@ -11,7 +11,7 @@ Topics learned in here: N-gram, markov assumption, Max Likelihood Estimation, et
 
 Surprisal, Entropy, Cross entropy, TODO: KL Divergence, Perlexity
 
-Perplexity: [Read more](https://www.cs.bu.edu/fac/snyder/cs505/PerplexityPosts.pdf)
+Perplexity: [Read more](https://www.cs.bu.edu/fac/snyder/cs505/PerplexityPosts.pdf) [Read2](https://medium.com/@shubhamsd100/understanding-perplexity-in-language-models-a-detailed-exploration-2108b6ab85af)
 
 ## CBOW Word2Vec Model
 
