@@ -1,3 +1,6 @@
+# TODO: 
+Do the unembedding Notebook, vid #37
+
 # NLP_Basics
 
 1. NLU (Natural language Understadning): https://www.geeksforgeeks.org/nlp/natural-language-understanding/
