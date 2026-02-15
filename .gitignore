@@ -1,0 +1,55 @@
+# ---- Jupyter ----
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# ---- OS / editor ----
+.DS_Store
+*.swp
+*.swo
+
+# ---- Downloads / temp ----
+*.crdownload
+*.tmp
+*.log
+
+# ---- Data / large text ----
+*.zip
+*.gz
+*.tgz
+*.7z
+*.rar
+
+# ---- Data / large text ----
+*.zip
+*.gz
+*.tgz
+*.7z
+*.rar
+
+# Large embedding / vector dumps / corpora
+*.txt
+*.tsv
+*.csv
+*.jsonl
+
+# If you still want SMALL .txt notes tracked, instead of ignoring all *.txt,
+# replace the *.txt line above with something like:
+# data/**
+
+# ---- ML models / checkpoints ----
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+*.tflite
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.safetensors
+
+# ---- Caches ----
+__pycache__/
+*.pyc
+.cache/
